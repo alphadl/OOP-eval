@@ -2,7 +2,7 @@
 
 ## OOP Benchmark
 
-OOP is a code generation benchmark to <b>quantify the object-oriented programming ability</b> of language Large Language Models (LLMs), and the details can be seen in our paper "[OOP: Object-Oriented Programming Evaluation Benchmark for Large Language Models](https://arxiv.org/abs/2401.06628)". 
+OOP is a code generation benchmark to <b>quantify the object-oriented programming ability</b> of language Large Language Models (LLMs), and the details can be seen in our paper "[OOP: Object-Oriented Programming Evaluation Benchmark for Large Language Models](https://arxiv.org/abs/2401.06628) | [[HuggingFace Link](https://huggingface.co/datasets/codeai-dteam/oop)]". 
 We collect code snippets from the [LeetCode](https://leetcode.com/), [open-source repositories on GitHub](https://github.com/), [Stack Overflow](https://stackoverflow.com/), and [Codewars](https://www.codewars.com/), and all the test samples have undergone carefully designed post-processing. 
 
 We show that 🔎:
